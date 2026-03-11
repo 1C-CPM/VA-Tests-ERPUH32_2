@@ -1,4 +1,4 @@
-﻿#language: ru
+#language: ru
 @tree
 
 @ERPUH32_NSI
